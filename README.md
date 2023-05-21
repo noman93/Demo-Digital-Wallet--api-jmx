@@ -1,4 +1,4 @@
-# Api Test Of Dmoney in Jmeter
+# Api Test Of Demo Digital Wallet  in Jmeter
 
 ## How to Run This Project
 - Clone the project
